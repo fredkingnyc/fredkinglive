@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fredkinglive/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fredkinglive/static/js/main.81857483.chunk.js",
+    "main.js.map": "/fredkinglive/static/js/main.81857483.chunk.js.map",
+    "runtime-main.js": "/fredkinglive/static/js/runtime-main.d8e58bc7.js",
+    "runtime-main.js.map": "/fredkinglive/static/js/runtime-main.d8e58bc7.js.map",
+    "static/js/2.329532c4.chunk.js": "/fredkinglive/static/js/2.329532c4.chunk.js",
+    "static/js/2.329532c4.chunk.js.map": "/fredkinglive/static/js/2.329532c4.chunk.js.map",
+    "index.html": "/fredkinglive/index.html",
+    "precache-manifest.af58d20f2c208d2f174e74f6a71280e0.js": "/fredkinglive/precache-manifest.af58d20f2c208d2f174e74f6a71280e0.js",
+    "service-worker.js": "/fredkinglive/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fredkinglive/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.329532c4.chunk.js.LICENSE.txt": "/fredkinglive/static/js/2.329532c4.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/fredkinglive/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8e58bc7.js",
+    "static/js/2.329532c4.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.81857483.chunk.js"
+  ]
+}
