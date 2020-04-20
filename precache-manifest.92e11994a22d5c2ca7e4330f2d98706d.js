@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9096b7d7f92d120264bd96a3c093e085",
+    "revision": "f11b0ad38acea681496b88732cc8a3fb",
     "url": "/fredkinglive/index.html"
   },
   {
-    "revision": "99046ab7886eb423bcaa",
+    "revision": "d66e5ecc96c003fa2f34",
     "url": "/fredkinglive/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fredkinglive/static/js/2.329532c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "99046ab7886eb423bcaa",
-    "url": "/fredkinglive/static/js/main.81857483.chunk.js"
+    "revision": "d66e5ecc96c003fa2f34",
+    "url": "/fredkinglive/static/js/main.18fac84f.chunk.js"
   },
   {
     "revision": "444d21f2eb2f40bfe05c",
